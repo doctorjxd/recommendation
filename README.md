@@ -7,7 +7,9 @@
 #推荐软件
 ===========
 *  git: 备份和版本控制软件
-*  [R](www.r-project.org)
+*  [R](http://www.r-project.org)： 国外大学里比较热的一种统计计算语言，搞分子生物信息学的也知道;当然同时也推荐SAS、SPSS等，每样都多少接触一下吧。
+*  [LaTeX](http://www.ctex.org)： 论文排版软件
+*  [FreeBSD](http://www.freebsd.org)： 源于加州大学伯克利分校的操作系统
 
 
 #推荐网站
